@@ -47,7 +47,7 @@ Depois que o merge da sua pull request for feito, você pode deletar a sua branc
 2. Ao desenvolver API`s em node necessitamos fazer o monitoramento da saúde da aplicação e mapear erros e crashs. Porém, como o TS é transpilado é preciso realizar o mapeamento correto do codebase para que ferramentas como Sentry nos mostre erros relevantes e rastreavéis.
 3. Integraçao do TS com Sentry e outras ferramentas adiciona mais complexidade ao processo de deploy (Ainda precisa melhorias).
 4. Se seu time consegue desenvolver bem com tipagem por que não utilizar GO, .NET, Java ??
-
+5. Minha impressão pessoal é que o código TS com React fica muito bagunçado. Com Nodejs é até organizado.
 
 ## 📝 Licença
 
